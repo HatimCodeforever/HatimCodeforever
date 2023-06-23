@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hatim mullajiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatim mullajiwala" height="30" width="40" /></a>
-<a href="https://kaggle.com/hatim mullajiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hatim mullajiwala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hatim-mullajiwala-37937a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatim mullajiwala" height="30" width="40" /></a>
+<a href="https://kaggle.com/hatimmullajiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hatim mullajiwala" height="30" width="40" /></a>
 <a href="https://instagram.com/hatim786m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hatim786m" height="30" width="40" /></a>
 <a href="https://discord.gg/#1831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1831" height="30" width="40" /></a>
 </p>
